@@ -1,16 +1,80 @@
-# React + Vite
+# 🚀 Pavan Singh Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio website built using **React** and **Tailwind CSS** to showcase my work, skills, and contact information.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Demo
 
-## React Compiler
+👉 (Add your Vercel link here)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Responsive design (mobile + desktop)
+* Smooth animations and modern UI
+* Projects showcase section
+* Skills and experience section
+* Working contact form (EmailJS)
+* Download CV functionality
+
+---
+
+## 🛠️ Tech Stack
+
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* EmailJS
+
+---
+
+## 📂 Project Structure
+
+* Reusable components
+* Clean UI layout
+* Section-based architecture (Hero, About, Projects, Contact)
+
+---
+
+## ⚙️ Setup & Installation
+
+```bash
+git clone https://github.com/PavanCodeCraft/pavan-singh-portfolio.git
+cd pavan-singh-portfolio
+npm install
+npm run dev
+```
+
+---
+
+## 🔐 Environment Variables
+
+Create a `.env` file in the root:
+
+```env
+VITE_EMAILJS_SERVICE_ID=
+VITE_EMAILJS_TEMPLATE_ID=
+VITE_EMAILJS_PUBLIC_KEY=
+```
+
+---
+
+## 📬 Contact
+
+* Email: [pavancodecraft@gmail.com](mailto:yourmail@gmail.com)
+* GitHub: [(add link)](https://github.com/PavanCodeCraft)
+* LinkedIn: https://www.linkedin.com/in/pavancodecraft/
+
+---
+
+## 🧠 About
+
+This portfolio is built to present my work and development journey in a clean and structured way.
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
