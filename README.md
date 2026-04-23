@@ -63,9 +63,11 @@ VITE_EMAILJS_PUBLIC_KEY=
 
 ## 📬 Contact
 
-* Email: [pavancodecraft@gmail.com](mailto:yourmail@gmail.com)
-* GitHub: [(add link)](https://github.com/PavanCodeCraft)
-* LinkedIn: https://www.linkedin.com/in/pavancodecraft/
+## 📬 Connect
+
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavancodecraft@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PavanCodeCraft-181717?style=for-the-badge&logo=github)](https://github.com/PavanCodeCraft)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pavancodecraft/)
 
 ---
 
