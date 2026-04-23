@@ -6,7 +6,7 @@ A modern personal portfolio website built using **React** and **Tailwind CSS** t
 
 ## 🌐 Live Demo
 
-👉 (Add your Vercel link here)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge&logo=vercel&logoColor=white)](https://pavan-singh-portfolio-omega.vercel.app/)
 
 ---
 
